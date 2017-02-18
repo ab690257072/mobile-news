@@ -1,6 +1,5 @@
 <template>
 	<div class="nav">
-		<div class="nav-logo"><img :src="logoImg" alt=""></div>
 		<ul>
 	    	<router-link to="/home" tag="li" active-class="active">
 	    		<a href="javascript:;">首页</a>
